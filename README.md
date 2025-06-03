@@ -1,4 +1,4 @@
-# 🏥 CheckMed - Sistema de Gerenciamento Médico
+#  CheckMed - Sistema de Gerenciamento Médico
 
 O **CheckMed** é um sistema de linha de comando, desenvolvido em **Python**, para gerenciar pacientes, médicos, consultas e prontuários em clínicas médicas. Ele se conecta a um banco de dados MySQL para armazenar e recuperar informações essenciais.
 
@@ -11,13 +11,13 @@ O **CheckMed** é um sistema de linha de comando, desenvolvido em **Python**, pa
 - Cadastro e listagem de médicos
 - Registro e visualização de prontuários médicos
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3.x
 - MySQL
 - Biblioteca `mysql-connector-python`
 
-## 🧩 Estrutura do Banco de Dados
+##  Estrutura do Banco de Dados
 
 O projeto espera que existam as seguintes tabelas no banco de dados `checkmed`:
 
